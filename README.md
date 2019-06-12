@@ -16,6 +16,6 @@ Following branches are archived:
 * develop_old
 * develop-v2  
 
-One can get back these branches using the command: git checkout -b \<branchname\> archive/\<branchname\>  
+One can get back these branches using the command: `git checkout -b \<branchname\> archive/\<branchname\>`  
 For more details you can refer to [this](https://stackoverflow.com/questions/1307114/how-can-i-archive-git-branches/4292670#4292670) website
 
