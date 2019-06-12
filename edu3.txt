@@ -1,1 +1,0 @@
-edu2.txt and edu3.txt are added and committed simultaneously.
