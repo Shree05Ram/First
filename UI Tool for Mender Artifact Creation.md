@@ -23,9 +23,11 @@ post-execution setups and cleanups.
 device.
 
 Here are the steps to create an artifact using the tool:
-Step – 1 : Choose the Artifact Type based on the file type used.
-Step – 2 : Input the name of the output Mender Artifact.
-Step – 3 : Input the compatible device type of this Mender Artifact.
-Step – 4 : Optionally, input the path on target device where file will be installed.
-Step – 5 : Import the file/script used to create artifact
+
+Step - 1 : Choose the Artifact Type based on the file type used.  
+Step - 2 : Input the name of the output Mender Artifact.  
+Step - 3 : Input the compatible device type of this Mender Artifact.  
+Step - 4 : Optionally, input the path on target device where file will be installed.  
+Step - 5 : Import the file/script used to create artifact.  
+
 This will create and download the artifact.
